@@ -1,44 +1,44 @@
 {
- "updated": "2026-11-18T17:32:24+00:00",
- "total": 1372,
+ "updated": "2026-11-18T18:31:43+00:00",
+ "total": 859,
  "by_type": {
-  "http": 305,
-  "socks4": 342,
-  "socks5": 725
+  "http": 264,
+  "socks4": 321,
+  "socks5": 274
  },
- "https": 850,
- "elite": 986,
- "datacenter": 378,
- "blocklisted": 855,
- "stable": 62,
+ "https": 405,
+ "elite": 726,
+ "datacenter": 231,
+ "blocklisted": 441,
+ "stable": 63,
  "sites": {
-  "google": 237,
-  "reddit": 203,
-  "amazon": 15,
-  "instagram": 122,
-  "tiktok": 269,
-  "discord": 391
+  "google": 135,
+  "reddit": 134,
+  "amazon": 71,
+  "instagram": 77,
+  "tiktok": 71,
+  "discord": 174
  },
  "run_hours": 1,
  "countries": {
-  "US": 469,
-  "ID": 109,
-  "FR": 75,
-  "NL": 67,
-  "DE": 50,
-  "JP": 50,
-  "IN": 41,
-  "RU": 38,
-  "CN": 38,
-  "VN": 37,
-  "BR": 29,
+  "US": 174,
+  "ID": 67,
+  "NL": 50,
+  "RU": 40,
+  "CN": 40,
+  "DE": 35,
+  "BR": 31,
+  "FR": 28,
   "ZW": 26,
-  "KH": 19,
-  "BD": 17,
-  "BI": 17
+  "JP": 25,
+  "IN": 23,
+  "VN": 21,
+  "TH": 16,
+  "KR": 15,
+  "PK": 15
  },
- "median_latency": 1991,
- "median_speed_kbps": 102,
+ "median_latency": 1650,
+ "median_speed_kbps": 85,
  "requires": {
   "all.txt": [
    "basic",
@@ -77,5 +77,5 @@
    "https"
   ]
  },
- "held_back": 222
+ "held_back": 209
 }
